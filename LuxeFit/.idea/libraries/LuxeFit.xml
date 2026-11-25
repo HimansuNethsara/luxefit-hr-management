@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LuxeFit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/LuxeFit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
